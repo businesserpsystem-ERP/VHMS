@@ -1,0 +1,8 @@
+{
+  "name": "Visionary Care HMS-KBNSB",
+  "description": "A comprehensive, AI-powered modern Eye Hospital Management System featuring OPD/IPD management, pharmacy POS, detailed reporting, and Gemini-powered analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
